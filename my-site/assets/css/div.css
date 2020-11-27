@@ -1,0 +1,16 @@
+.rrethmeje{
+	font-family: open-sans, sans-serif;
+	font-weight: 500;
+	font-style: normal;
+}
+
+div{
+	margin-left: 200px;
+	font-family: open-sans, sans-serif;
+}
+
+div p b{
+	font-family: open-sans, sans-serif;
+	font-weight: bold;
+	font-style: normal;
+}

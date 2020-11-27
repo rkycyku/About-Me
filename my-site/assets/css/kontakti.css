@@ -1,0 +1,38 @@
+.fb{
+	background-color: #4267B2;
+	color: black;
+}
+
+.ig{
+	background-color: #C13584;
+	color: black;
+}
+
+.tw{
+	background-color: #1DA1F2;
+	color: black;
+}
+
+.snap{
+	background-color: #FFFC00;
+	color: black;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover{
+	text-decoration: underline;
+	color: grey;
+}
+
+h2{
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+	font-family: open-sans,sans-serif;
+}
