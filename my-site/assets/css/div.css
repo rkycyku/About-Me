@@ -5,7 +5,8 @@
 }
 
 div{
-	margin-left: 200px;
+	margin-left: 210px;
+	margin-top: 20px;
 	font-family: open-sans, sans-serif;
 }
 
@@ -13,4 +14,12 @@ div p b{
 	font-family: open-sans, sans-serif;
 	font-weight: bold;
 	font-style: normal;
+}
+
+#kontakti{
+	margin-left: 300px;
+}
+
+#rrw{
+	margin-left: 300px;
 }

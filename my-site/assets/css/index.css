@@ -5,11 +5,14 @@
 	text-align: center;
 }
 
-img{
+#fotoprofili{
 	height: 270px;
-	margin-bottom: -5px;
 }
+
 aside{
 	float: left;
 }
 
+ol{
+    overflow: hidden;
+}

@@ -1,21 +1,14 @@
-.fb{
-	background-color: #4267B2;
-	color: black;
+.qrcode{
+	height: 100px;
+	width: 100px;
 }
 
-.ig{
-	background-color: #C13584;
-	color: black;
+#qrcode   a:hover:not(.active) {
+    background-color: white;
 }
-
-.tw{
-	background-color: #1DA1F2;
-	color: black;
-}
-
-.snap{
-	background-color: #FFFC00;
-	color: black;
+#qrcode{
+	height: 150px;
+	width: 150px;
 }
 
 a{
@@ -25,14 +18,9 @@ a{
 
 a:hover{
 	text-decoration: underline;
-	color: grey;
+	text-decoration: none;
 }
 
 h2{
 	text-align: center;
-}
-
-h3{
-	text-align: center;
-	font-family: open-sans,sans-serif;
 }
