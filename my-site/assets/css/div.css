@@ -1,3 +1,11 @@
+#kontakti{
+	margin-left: 300px;
+}
+
+#rrw{
+	margin-left: 300px;
+}
+
 .rrethmeje{
 	font-family: open-sans, sans-serif;
 	font-weight: 500;
@@ -5,7 +13,7 @@
 }
 
 div{
-	margin-left: 210px;
+	margin-left: 490px;
 	margin-top: 20px;
 	font-family: open-sans, sans-serif;
 }
@@ -16,10 +24,6 @@ div p b{
 	font-style: normal;
 }
 
-#kontakti{
-	margin-left: 300px;
-}
-
-#rrw{
-	margin-left: 300px;
+aside{
+	margin-left: 270px;
 }
